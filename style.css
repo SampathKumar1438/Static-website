@@ -1,0 +1,56 @@
+.header{
+ margin: auto;
+ padding: auto;
+}
+
+a{
+    padding: 10px;
+}
+
+.clg{
+    padding-top: 50px;
+    height: 70px;
+    width: 70px;  
+}
+ul{
+    text-align: center;
+}
+
+.logo{
+    background-color: grey;
+    padding: 10px;
+}
+
+#university{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+h3{
+    padding: 150px;
+    padding-bottom: 30px;
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+p{
+    display: block;
+    text-align:center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.admision{
+    padding: 100px;
+    display: block;
+    float: left;
+}
+
+.interest{
+    list-style: none;
+
+}
